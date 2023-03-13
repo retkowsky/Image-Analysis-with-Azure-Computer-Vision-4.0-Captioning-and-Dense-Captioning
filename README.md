@@ -7,6 +7,8 @@
 - There's also a new gender-neutral parameter to allow customers to choose whether to enable probabilistic gender inference for alt-text and Seeing AI applications. 
 - Automatically deliver rich captions, accessible alt-text, SEO optimization, and intelligent photo curation to support digital content.
 
+This service is currently in preview, and the API may change in the future.
+
 https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-describe-images-40?tabs=image
 
 ## Python demo notebook
