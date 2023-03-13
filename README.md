@@ -10,8 +10,7 @@
 https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-describe-images-40?tabs=image
 
 ## Python demo notebook
-<a href="https://github.com/retkowsky/dense_captions_Azure_Computer_Vision_4
-.0/blob/main/Image%20retrieval%20(version%204.0%20preview)%20with%20Azure%20Computer%20Vision.ipynb">Python demo notebook</a>
+<a href="https://github.com/retkowsky/dense_captions_Azure_Computer_Vision_4/blob/main/Image%20Analysis%20V4.0%20Captioning%20and%20Dense%20Captioning%20.ipynb">Python demo notebook</a>
 
 ## Results
 <img src="results.png">
