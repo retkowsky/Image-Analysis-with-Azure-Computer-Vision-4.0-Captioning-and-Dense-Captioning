@@ -9,8 +9,15 @@
 
 https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-describe-images-40?tabs=image
 
+## Python demo notebook
+<a href="https://github.com/retkowsky/dense_captions_Azure_Computer_Vision_4
+.0/blob/main/Image%20retrieval%20(version%204.0%20preview)%20with%20Azure%20Computer%20Vision.ipynb">Python demo notebook</a>
+
 ## Results
 <img src="results.png">
 
 ## Dense captions from the image
 <img src="captions.jpg">
+
+
+13-Mar-2023 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
