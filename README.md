@@ -1,4 +1,4 @@
-# Image Analysis V4.0 Captioning and Dense Captioning (public preview)
+# Image Analysis with Azure Computer Vision 4.0 Captioning and Dense Captioning
 
 "Caption" replaces "Describe" in V4.0 as the significantly improved image captioning feature rich with details and sematic understanding. 
 
