@@ -9,6 +9,8 @@
 
 https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-describe-images-40?tabs=image
 
+## Results
 <img src="results.png">
 
+## Dense captions from the image
 <img src="captions.jpg">
